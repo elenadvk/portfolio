@@ -18,8 +18,10 @@
 ### Архитектура в нотации С4
 #### Диаграмма контекста
 <img width="711" height="579" alt="image" src="https://github.com/user-attachments/assets/1461f628-78b2-496a-a6c2-d472dfd32730" />
+
 #### Диаграмма контейнеров
 <img width="945" height="608" alt="image" src="https://github.com/user-attachments/assets/7d9acc32-2608-485f-88fe-ebc3a0731c21" />
+
 #### Диаграмма компонентов
 <img width="945" height="498" alt="image" src="https://github.com/user-attachments/assets/412f0f4d-f3e7-4456-b6dc-09a4ebb216eb" />
 
