@@ -27,9 +27,9 @@
 <img width="580" height="688" alt="image" src="https://github.com/user-attachments/assets/28ab6a71-cf05-4c1d-87ba-46266e24c46c" />
 
 ## Sequence Diagrams
-###  Сценарий входа в приложение для пользователя
+### Сценарий входа в приложение для пользователя
 <img width="945" height="1172" alt="image" src="https://github.com/user-attachments/assets/404f5dec-9f53-4468-b877-d9d45947388e" />
-###  Сценарии работы с товарами для покупателя 
+### Сценарии работы с товарами для покупателя 
 <img width="611" height="970" alt="image" src="https://github.com/user-attachments/assets/e0dbf315-d0ec-4b92-b20e-74244337bbb6" />
 ### Сценарии работы с профилем покупателя
 <img width="1075" height="787" alt="image" src="https://github.com/user-attachments/assets/a02aa036-694d-4038-b0d3-19746dc14986" />
